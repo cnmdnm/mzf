@@ -10,7 +10,7 @@
   <head>
     <title>$Title$</title>
   </head>
-  <body>草你爸
+  <body>草你
 
   </body>
 </html>
